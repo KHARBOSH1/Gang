@@ -1,0 +1,16 @@
+{
+  "allowedUserIds": [
+    "1184560296703037472",
+    "753362375578615881",
+    "852947411805798440",
+    "1066759644745310248",
+    "1390219874932101284",
+    "859976048221224991",
+    "1251665502242213979"
+   ],
+  "delayBetweenKicksMs": 1500,
+  "delayBetweenChannelDeletesMs": 2500,
+  "logChannelId": "1491765751848370318",
+  "maxKicksPerRun": 500,
+  "maxChannelDeletesPerRun": 50
+}
